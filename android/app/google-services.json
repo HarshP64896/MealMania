@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "679844608416",
+    "project_id": "meal-app-85ccc",
+    "storage_bucket": "meal-app-85ccc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:679844608416:android:a500090265d0eb312e8cc5",
+        "android_client_info": {
+          "package_name": "com.online.mealmania"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpw-OXOkuJAj3OvKOnMzTSI6HvN3qvkSc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
